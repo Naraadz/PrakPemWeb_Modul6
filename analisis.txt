@@ -1,0 +1,23 @@
+Nama: Wistaranatha Conary Hermarita
+NIM: 105222038
+Mata Kuliah: Pemrograman Web
+
+
+
+1. Jelaskan perbedaan utama yang anda rasakan saat membangun layout dan komponen menggunakan bootstrap 5 vs Tailwind CSS. Manakah yang terasa lebih cepat untuk setup awal? Manakah yang memberi anda kontrol lebih besar atas styling?
+
+Bootstrap: Setelah saya membuat layout suatu desain dengan menggunakan bootstrap, proses yang dilakukan lebih simpel dan mudah, dikarenakan proses ini telah memiliki sebuah komponen  yang mampu membantu, seperti navigation bar (navbar), card, dan grid.
+
+Sesuai yang saya gunakan pada code, menggunakan class container row, col-md-6 untuk lebih merapikan hasil dalan judul maupun penulisan (seperti header).
+
+Tailwind CSS: Setelah saya membuat layout suatu desain dengan menggunakan tailwind, proses yang telah dilakukan jika dibandingkan dengan menggunakan bootstrap lebih kompleks, meskipun memiliki hasil layout dengan rapi, menggunakan bg-gray-100. 
+
+2. Ukuran File & Kustomisasi
+
+Bootstrap: HTML lebih simple karena sudah ada komponen yang mempermudah dalam pembuatan, seperti navigation bar (navbar) card, grid. <button class=”btn btn-primary”>Kirim</button>
+Tailwind CSS: HTML lebih kompleks dan lebih memerlukan banyak class, salah satunya utility class. bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline
+
+3. Kesimpulan!
+Bootstrap 5 jika dibandingkan dengan Tailwind CSS, lebih mudah dalam segi pembuatannya dikarenakan telah memiliki komponen yang tersimpan, jadi tidak perlu dilakukan secara manual, dan tailwind harus dilakukan dengan cara manual. Meskipun hasil akhir akan  tetap sama. 
+
+Jadi secara fungsionalitas, bootstrap lebih efektif karena tidak perlu menggunakan banyak waktu dan pengguna lebih bebas dalam melakukan kustomisasi
